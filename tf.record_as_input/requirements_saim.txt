@@ -1,6 +1,6 @@
 numpy==1.16.4
 apache-beam
 gcsfs==0.3.0
-Pillow==5.1.0
+Pillow==6.2.0
 dlib==19.18.0
 opencv-python==4.1.0.25
