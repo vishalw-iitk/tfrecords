@@ -6,7 +6,7 @@ import setuptools
 NAME = 'trainer'
 VERSION = '1.0'
 REQUIRED_PACKAGES = [
-    'tensorflow-gpu==1.14.0',
+    'tensorflow-gpu==2.3.1',
     'google-cloud-storage'
 ]
 
